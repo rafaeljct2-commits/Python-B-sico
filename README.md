@@ -18,7 +18,7 @@ Este repositório reúne projetos criados para praticar lógica de programação
 - Cobrinha
 - Pong
 ## Projetos Avançados
-- Pong Compelto
+- Pong Completo
 
 ## Tecnologias
 
