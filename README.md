@@ -6,22 +6,19 @@ Repositório dedicado ao desenvolvimento de jogos em Python.
 
 Este repositório reúne projetos criados para praticar lógica de programação e desenvolvimento de jogos.
 
-## Jogos
+## Jogos Iniciantes
 
 - Pedra, Papel e Tesoura
 - Jogo da Adivinhação
 - Forca
 - Jogo da Velha
-- Pong
+
+## Jogos com Pygame
+
 - Cobrinha
-- Flappy Bird
-- Space Invaders
+- Pong
 
 ## Tecnologias
 
 - Python 3
 - Pygame
-
-## Objetivo
-
-Aprender e evoluir no desenvolvimento de jogos em Python.
