@@ -17,6 +17,8 @@ bola_y = 300
 velocidade_bola_x = 4
 velocidade_bola_y = 4
 
+pontos = 0
+
 rodando = True
 
 while rodando:
@@ -37,6 +39,10 @@ while rodando:
 
     if bola_y <= 0 or bola_y >= altura:
         velocidade_bola_y *= -1
+
+    if bola_x <= 70 and barra_y <= bola_y <= barra_y + 100:
+        velocidade_bola_x *= -1
+        pontos += 1
 
     tela.fill((0, 0, 0))
 
