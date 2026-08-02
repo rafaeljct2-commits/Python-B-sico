@@ -1,10 +1,11 @@
+markdown
 # Jogos em Python 🎮
 
 Repositório dedicado ao desenvolvimento de jogos em Python.
 
 ## Sobre
 
-Aqui você encontrará projetos criados para praticar lógica de programação, desenvolvimento de jogos e uso da biblioteca Pygame.
+Este repositório reúne projetos criados para praticar lógica de programação e desenvolvimento de jogos.
 
 ## Jogos
 
@@ -22,14 +23,6 @@ Aqui você encontrará projetos criados para praticar lógica de programação, 
 - Python 3
 - Pygame
 
-## Estrutura
+## Objetivo
 
-Python/
-├── jogos_iniciantes/
-├── pygame/
-├── assets/
-├── README.md
-└── .gitignore
-
-## Instalação
- 
+Aprender e evoluir no desenvolvimento de jogos em Python.
