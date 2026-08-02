@@ -2,13 +2,14 @@ import random
 
 numero_secreto = random.randint(1, 10)
 
-print("=== Jogo da Adivinhação ===")
+tentativas = 3
 
-while True:
-    palpite = int(input("Digite um número de 1 a 10: "))
+while tentativas > 0:
+    palpite = int(input("Digite um número: "))
 
     if palpite == numero_secreto:
-        print("Parabéns! Você acertou!")
+        print("Acertou!")
         break
-    else:
-        print("Tente novamente!")
+
+    tentativas -= 1
+    print("Tentativas restantes:", tentativas)
