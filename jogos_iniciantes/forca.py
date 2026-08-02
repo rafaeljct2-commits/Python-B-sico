@@ -1,8 +1,10 @@
-palavra_secreta = "python"
+palavra = "python"
 
-palpite = input("Digite uma letra: ").lower()
+while True:
+    letra = input("Digite uma letra: ").lower()
 
-if palpite in palavra_secreta:
-    print("Acertou!")
-else:
-    print("Errou!")
+    if letra in palavra:
+        print("Acertou!")
+        break
+    else:
+        print("Errou! Tente novamente.")
