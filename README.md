@@ -1,4 +1,3 @@
-markdown
 # Jogos em Python 🎮
 
 Repositório dedicado ao desenvolvimento de jogos em Python.
