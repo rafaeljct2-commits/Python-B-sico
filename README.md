@@ -21,6 +21,7 @@ Este repositório reúne projetos criados para praticar lógica de programação
 
 - Cobrinha Completa
 - Pong Completo
+- Forca Completa 
 
 ## Tecnologias
 
